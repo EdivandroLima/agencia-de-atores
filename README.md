@@ -105,6 +105,8 @@ GET /atores
 POST /atores
 ```
 
+## Banco de dados
+<img src="./docs/imgs/banco-de-dados.png" width="500">
 
 ## Instalação
 **Instale as dependências**
@@ -133,5 +135,3 @@ $ php artisan serve
 ## Desenvolvedor
 - **Edivandro Lima:** https://github.com/EdivandroLima
 - **Linkedin:** https://www.linkedin.com/in/edivandro-lima/
-
-

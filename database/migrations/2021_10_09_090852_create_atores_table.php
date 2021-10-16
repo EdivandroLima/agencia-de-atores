@@ -21,7 +21,7 @@ class CreateAtoresTable extends Migration
             $table->string('manequim');
             $table->string('sexo', 20);
             $table->date('data_nasc', 3);
-            $table->integer('sapato');
+            $table->smallInteger('sapato');
             $table->string('pele', 20);
             $table->string('olhos', 20);
             $table->string('cabelo', 20);

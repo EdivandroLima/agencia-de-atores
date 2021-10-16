@@ -1,0 +1,14 @@
+/* body {
+    background: rgb(38, 135, 231);
+} */
+
+body {
+    /* background-image: linear-gradient(180deg, #b748ef 0, #9b41f1 25%, #783cf2 50%, #4539f3 75%, #0038f4 100%); */
+    /* background-size: 100%; */
+
+    background-image: linear-gradient(135deg, #f79740 0, #fc8c42 8.33%, #ff7f45 16.67%, #ff7148 25%, #ff614d 33.33%, #ff4f52 41.67%, #ff3858 50%, #fb165f 58.33%, #f60068 66.67%, #ef0072 75%, #e7007e 83.33%, #dd008a 91.67%, #d10098 100%);
+
+}
+html, body {
+    min-height: 100vh;
+}

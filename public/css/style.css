@@ -1,0 +1,27 @@
+input,
+select {
+    background-color: #f5f5f5 !important;
+}
+
+.bg-orange {
+    background-color: #f17113;
+}
+
+.btn-orange {
+    color: #ffffff;
+    background-color: #f17113;
+    border-color: #f17113;
+}
+
+.btn-orange:hover {
+    color: #ffffff;
+    background-color: #db640d;
+    border-color: #db640d;
+}
+
+.btn-orange:focus {
+    color: #ffffff;
+    background-color: #db640d;
+    border-color: #db640d;
+    box-shadow: 0 0 0 0.2rem rgba(241, 113, 19, .5)
+}
